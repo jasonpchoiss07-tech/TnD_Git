@@ -1,1 +1,0 @@
-This is Menu Restaurant Files for Git Demo
